@@ -1,5 +1,7 @@
 Traffic Accident Prediction Project
+
 Project Overview
+
 This project predicts traffic accidents based on real factors like weather, road conditions, time of day, vehicle types, and more, using machine learning methods. It aims to forecast accident occurrence and severity to enhance road safety and reduce accident impact.
 
 Features
